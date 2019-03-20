@@ -1,0 +1,16 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			// CBaseCombatWeapon::HasAnyAmmo()
+			"HasAnyAmmo"
+			{
+				"windows"	"248"
+				"linux"		"254"
+				"mac"		"254"
+			}
+		}
+	}
+}
